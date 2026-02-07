@@ -1,15 +1,13 @@
-# Core
 streamlit
-numpy
-pandas
-Pillow
-matplotlib
-# OpenCV (headless ONLY)
-opencv-python-headless
-
-# ML / DL
 torch
 torchvision
-
+opencv-python
+numpy
+pandas
+tqdm
+Pillow
+matplotlib
+segmentation-models-pytorch
 albumentations
 scikit-image
+openpyxl
