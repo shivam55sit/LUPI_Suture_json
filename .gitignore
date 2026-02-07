@@ -5,3 +5,4 @@ inference_results.xlsx
 student_astigmatism_model.pth
 teacher_astigmatism_model.pth
 __pycache__
+model_limbus_crop_unetpp_weighted.pth
