@@ -1,0 +1,15 @@
+# Core
+streamlit
+numpy
+pandas
+Pillow
+matplotlib
+# OpenCV (headless ONLY)
+opencv-python-headless
+
+# ML / DL
+torch
+torchvision
+
+albumentations
+scikit-image
